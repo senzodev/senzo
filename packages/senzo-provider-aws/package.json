@@ -1,0 +1,5 @@
+{
+  "name": "@senzo/provider-aws",
+  "type": "module",
+  "main": "src/index.js"
+}

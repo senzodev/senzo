@@ -1,0 +1,5 @@
+{
+  "name": "@senzo/function-event-router",
+  "type": "module",
+  "main": "src/index.js"
+}

@@ -1,5 +1,5 @@
 {
-  "name": "@senzo/function-graphql",
+  "name": "@senzo/observer-honeycomb",
   "type": "module",
   "main": "src/index.js"
 }

@@ -1,5 +1,4 @@
 {
-  "name": "@senzo/function-graphql",
   "type": "module",
   "main": "src/index.js"
 }

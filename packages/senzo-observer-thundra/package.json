@@ -1,0 +1,5 @@
+{
+  "name": "@senzo/observer-thundra",
+  "type": "module",
+  "main": "src/index.js"
+}

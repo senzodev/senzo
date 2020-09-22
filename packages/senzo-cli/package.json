@@ -1,0 +1,5 @@
+{
+  "name": "@senzo/cli",
+  "type": "module",
+  "main": "src/index.js"
+}
